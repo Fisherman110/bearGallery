@@ -1,0 +1,392 @@
+[
+  {
+    "filename": "bear_drawing.JPG",
+    "zh": {
+      "title": "手绘小熊 · 灵感萌芽",
+      "desc": "在草稿纸上勾勒出的第一只小熊，它代表着创意、求知与无限的可能。",
+      "date": "第一学年"
+    },
+    "en": {
+      "title": "Hand-drawn Bear · Budding Inspiration",
+      "desc": "The first bear sketched on draft paper, representing creativity, pursuit of knowledge, and infinite possibilities.",
+      "date": "1st Academic Year"
+    }
+  },
+  {
+    "filename": "jiali.JPG",
+    "zh": {
+      "title": "佳期如许 · 韶华筑梦",
+      "desc": "校园里最宁静、惬意的角落。这里记录着清晨的晨读和傍晚的深思。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Beautiful Days · Dreaming of Youth",
+      "desc": "The most peaceful and cozy corner in the campus. It records the morning readings and evening reflections.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (1).JPG",
+    "zh": {
+      "title": "林荫大道 · 朝阳晨曦",
+      "desc": "清晨第一缕阳光穿过林荫，洒在通往教学楼的道路上，伴随书声朗朗。",
+      "date": "第一学年"
+    },
+    "en": {
+      "title": "Boulevard in Morning Light",
+      "desc": "The first morning light shines through the trees on the path to the teaching building, accompanied by sounds of study.",
+      "date": "1st Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (2).JPG",
+    "zh": {
+      "title": "湖畔倒影 · 水光潋滟",
+      "desc": "波光粼粼的湖面上倒映着图书馆的身影。微风拂过，泛起层层涟漪。",
+      "date": "第一学年"
+    },
+    "en": {
+      "title": "Lakeside Reflection",
+      "desc": "The library is reflected on the shimmering lake. A breeze brushes past, creating ripples on the water.",
+      "date": "1st Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (1) - 副本.JPG",
+    "zh": {
+      "title": "自习室的一隅",
+      "desc": "阳光静静洒在铺满参考书的书桌上。安静、专心致志的午后求学时光。",
+      "date": "第一学年"
+    },
+    "en": {
+      "title": "Corner of the Study Room",
+      "desc": "Sunshine quietly blankets the desk full of reference books. A quiet, dedicated afternoon of learning.",
+      "date": "1st Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (2) - 副本.JPG",
+    "zh": {
+      "title": "实验室之夜 · 霓虹绽放",
+      "desc": "夜深了，实验仪器旁的指示灯仍在闪烁。这是探索真知、通宵达旦的夜晚。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Lab Night · Glowing Tech",
+      "desc": "Deep in the night, indicator lights on laboratory equipment still blink. An overnight journey seeking truth.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (3) - 副本.JPG",
+    "zh": {
+      "title": "斑驳红砖 · 历史回音",
+      "desc": "教学老楼的红砖墙壁，爬满了常春藤。每一块砖石都承载着学术积淀与传承。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Ivy on Red Bricks",
+      "desc": "The old teaching building's red brick walls are covered with ivy. Every brick carries academic legacy.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (4) - 副本.JPG",
+    "zh": {
+      "title": "落叶知秋 · 黄金长廊",
+      "desc": "秋天如期而至，金黄的银杏叶铺满了校道。踩在上面发出清脆的响声，美不胜收。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Golden Autumn Pathway",
+      "desc": "Autumn arrives as scheduled, with golden ginkgo leaves covering the campus paths. Beautiful to walk on.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (5) - 副本.JPG",
+    "zh": {
+      "title": "樱花大道 · 春日絮语",
+      "desc": "春暖花开，粉嫩的樱花如期盛放，连微风中都带着甜甜的春天气息。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Cherry Blossom Boulevard",
+      "desc": "Spring brings cherry blossoms in full bloom, filling the breeze with sweet scent of spring.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (6) - 副本.JPG",
+    "zh": {
+      "title": "阶梯教室 · 知识殿堂",
+      "desc": "在宽敞的阶梯教室里，教授滔滔不绝，黑板上写满了推导公式，思维碰撞在空中。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Lecture Hall · Hall of Wisdom",
+      "desc": "In the spacious lecture hall, professors present eloquently, blackboards filled with formulae.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (7) - 副本.JPG",
+    "zh": {
+      "title": "学术讨论 · 灵感碰撞",
+      "desc": "课后大家聚在自习室里，针对一个难题热烈辩论，在白板上涂抹出灵感的蓝图。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Academic Brainstorming",
+      "desc": "Gathering around the whiteboard after class to debate a hard problem, sketching out ideas.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (8) - 副本.JPG",
+    "zh": {
+      "title": "图书馆穹顶 · 智慧之光",
+      "desc": "抬头仰望图书馆高耸的圆形穹顶，天光洒落在层层叠叠的书架上，浩瀚且神圣。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Library Dome · Light of Wisdom",
+      "desc": "Looking up at the library's high dome, sunlight showers down upon tiers of bookshelves.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (9) - 副本.JPG",
+    "zh": {
+      "title": "草坪吉他 · 歌声嘹亮",
+      "desc": "午后暖阳里，三五好友围坐在大草坪上，弹起吉他，唱着关于理想与远方的歌。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Lawn Melodies",
+      "desc": "Under the warm afternoon sun, friends gather on the grass to play guitar and sing of dreams.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (10).JPG",
+    "zh": {
+      "title": "夜跑跑道 · 挥洒汗水",
+      "desc": "夜晚的操场灯火通明，在晚风中一圈圈奔跑，释放一整天学术科研的压力。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Night Running Track",
+      "desc": "The track lit up at night, running lap after lap in the cool breeze to sweat away the stress.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (11).JPG",
+    "zh": {
+      "title": "学术沙龙 · 专家视野",
+      "desc": "参加业内大咖的学术交流沙龙，听取最前沿的研究进展，拓宽自己的学术边界。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Academic Seminar",
+      "desc": "Attending academic forums led by industry masters to broaden academic horizons.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (12) - 副本.JPG",
+    "zh": {
+      "title": "代码重构 · 逻辑精炼",
+      "desc": "电脑屏幕上整齐规范的一行行代码。精益求精，不断优化系统的性能与架构。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Code Refactoring",
+      "desc": "Lines of beautiful code organized on the screen, constantly optimizing performance and logic.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (13).JPG",
+    "zh": {
+      "title": "期末备考 · 挑灯夜战",
+      "desc": "期末周的凌晨两点，台灯下勾画满重点的课本，见证了每一次不懈努力的付出。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Midnight Exam Prep",
+      "desc": "At 2 AM during exam week, textbooks highlighted under desk lamps witness relentless effort.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (14).JPG",
+    "zh": {
+      "title": "论文撰写 · 句句斟酌",
+      "desc": "屏幕上的文字不断修改扩充。引经据典、推导逻辑，只为了交出一份完美的答卷。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Thesis Writing Process",
+      "desc": "Drafting and editing thesis paragraphs carefully, reasoning logically for a perfect final paper.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (15).JPG",
+    "zh": {
+      "title": "答辩准备 · 沉着冷静",
+      "desc": "反复模拟幻灯片的演示，调整语速与核心逻辑。为毕业前的最后一关做足准备。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Defense Practice",
+      "desc": "Practicing presentation slides repeatedly, managing speed and focus for the final challenge.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (16).JPG",
+    "zh": {
+      "title": "毕业作品展示",
+      "desc": "将大学四年来的心血结晶，陈列在宽阔的展示大厅，收获了老师与同学们的一致好评。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Graduation Showcase",
+      "desc": "Showcasing four years of hard work in the grand hall, receiving praises from teachers and peers.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (17) - 副本.JPG",
+    "zh": {
+      "title": "重聚校门 · 历久弥新",
+      "desc": "站在宏伟挺拔的学校大门前合影。岁月轮转，我们依然是那个鲜衣怒马的少年。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Reunion at the Campus Gate",
+      "desc": "Group photo in front of the grand campus gate. Time flies, yet our passionate hearts remain.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (18) - 副本.JPG",
+    "zh": {
+      "title": "拨穗礼成 · 青春加冕",
+      "desc": "合上证书的那一刻，拨穗礼成。头顶的学士帽飞向蓝天，承载着少年的前程锦绣。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "The Tassel Flip · Graduation Day",
+      "desc": "The moment the tassel is flipped. Mortarboards fly into the blue sky, carrying a bright future.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (19).JPG",
+    "zh": {
+      "title": "学位证书 · 沉甸甸的爱",
+      "desc": "大红色的证书捧在手心，分量极重。这是四年求索之路上，最完满的交代与句点。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Degree Certificate",
+      "desc": "Holding the red certificate in hand. This is the most fulfilling milestone of the four-year path.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (20).JPG",
+    "zh": {
+      "title": "毕业晚会 · 璀璨星河",
+      "desc": "毕业晚会的舞台上灯光璀璨，大家挥舞着荧光棒，在歌声中向这段无悔的青春告别。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Graduation Gala Night",
+      "desc": "A bright stage at the graduation gala, waving glow sticks and bidding farewell to youth.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (21).JPG",
+    "zh": {
+      "title": "再见宿舍 · 空白记忆",
+      "desc": "行李箱已打包带走，曾经温馨喧闹的小屋，重新回归了最初的空旷。再见，我的舍友们。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Farewell Dormitory",
+      "desc": "Suitcases packed away, the warm room is empty once again. Farewell, my dear roommates.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (22).JPG",
+    "zh": {
+      "title": "合影纪念 · 定格瞬间",
+      "desc": "大家穿着学士服肩并肩靠在一起。快门按下的刹那，时间将我们最灿烂的笑容永远留存。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Graduation Group Photo",
+      "desc": "Standing shoulder to shoulder in graduation gowns. The shutter clicks, locking our smiles forever.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (23).JPG",
+    "zh": {
+      "title": "夕阳晚霞 · 离别钟声",
+      "desc": "夕阳将天空染成了玫瑰金色，最后一面打卡校园的地标。挥挥手，不带走一片云彩。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Sunset Horizon · Departure Toll",
+      "desc": "The sunset paints the sky in rose gold, our final photo spot on campus. Waving goodbye softly.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (24).JPG",
+    "zh": {
+      "title": "未来之约 · 扬帆远航",
+      "desc": "站在全新的人生起点，行囊里装满了知识、友谊与回忆。向着星辰大海，我们即刻启航。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "Promise of Future · Sail On",
+      "desc": "At a brand new starting point, suitcases filled with knowledge and memories. Sailing to the deep sea.",
+      "date": "Graduation & Beyond"
+    }
+  },
+  {
+    "filename": "jiali1 (25).JPG",
+    "zh": {
+      "title": "恩师寄语 · 终身受用",
+      "desc": "临行前，导师微笑着拍了拍我的肩膀，送上最真挚的叮嘱与祝福。这份厚爱将常伴心间。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "Mentor's Blessing",
+      "desc": "Before departure, the mentor patted my shoulder, offering the sincerest blessings. Deeply cherished.",
+      "date": "Graduation & Beyond"
+    }
+  },
+  {
+    "filename": "jiali1 (26).JPG",
+    "zh": {
+      "title": "星光璀璨 · 前程似锦",
+      "desc": "最后一晚，整个校区亮起星光。祝愿所有毕业生在未来的道路上都能如星河般璀璨，前程似锦。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "Bright Starlight · Brighter Future",
+      "desc": "Under the starry night sky on our final evening, wishing all graduates a future as bright as the galaxy.",
+      "date": "Graduation & Beyond"
+    }
+  }
+]

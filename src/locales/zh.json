@@ -1,0 +1,27 @@
+{
+  "common": {
+    "backHome": "返回首页",
+    "close": "关闭",
+    "clickZoom": "点击放大",
+    "galleryTitle": "记忆画廊"
+  },
+  "home": {
+    "title": "熊画廊 (Bear Gallery)",
+    "subtitle": "时光留声机 · 青春纪念册",
+    "description": "欢迎来到熊画廊！这里记录了整整四年的青春轨迹。我们将其分为两个篇章，请选择您想要浏览的板块：",
+    "btnSeeking": "四年求索",
+    "btnLife": "人间四年"
+  },
+  "seeking": {
+    "title": "四年求索",
+    "subtitle": "Four Years of Academic Exploration",
+    "description": "“路漫漫其修远兮，吾将上下而求索。” 这里记录了四年大学时光里，在学术、技术与个人成长道路上的不断探索与追求。每一次挑灯夜战，每一次突破瓶颈，都是求索路上最闪光的足迹。",
+    "gallerySection": "记忆画廊 · 求索瞬间"
+  },
+  "life": {
+    "title": "人间四年",
+    "subtitle": "Four Years of Life & Memories",
+    "description": "“人间烟火气，最抚凡人心。” 这里承载了四年里最温暖的生活点滴、真挚的友谊和青春的欢笑。走过的街角、看过的风景、分享过的美食，共同编织成这段不可复制的珍贵岁月。",
+    "gallerySection": "记忆画廊 · 人间烟火"
+  }
+}

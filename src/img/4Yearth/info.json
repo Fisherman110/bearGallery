@@ -1,0 +1,392 @@
+[
+  {
+    "filename": "bear_drawing.JPG",
+    "zh": {
+      "title": "熊画作 · 岁月留痕",
+      "desc": "在生活笔记本里的即兴涂鸦。每一道线条都是对那一刻惬意生活的勾勒。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Bear Artwork · Traces of Time",
+      "desc": "Impromptu graffiti in a life notebook. Every line is a sketch of the cozy life at that moment.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali.JPG",
+    "zh": {
+      "title": "佳丽风景 · 留驻时光",
+      "desc": "人间烟火里最灿烂的瞬间。那一天的微风和阳光，都保存在了这一格菲林中。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Beautiful Scenery · Freezing Time",
+      "desc": "The most brilliant moment in worldly life. The breeze and sunshine of that day are preserved in this frame of film.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (1).JPG",
+    "zh": {
+      "title": "林间小道 · 绿色呼吸",
+      "desc": "漫步在树林繁茂的郊外，深深呼吸充满泥土清香的空气。自然的美无处不在。",
+      "date": "第一学年"
+    },
+    "en": {
+      "title": "Forest Pathway · Green Breath",
+      "desc": "Strolling through the dense forest, inhaling the scent of fresh soil. Nature's beauty is everywhere.",
+      "date": "1st Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (2).JPG",
+    "zh": {
+      "title": "城市天际线 · 日落斜阳",
+      "desc": "日落时分登上高楼天台，看着远方的落日缓缓沉入地平线，整座城市笼罩在一片金黄之中。",
+      "date": "第一学年"
+    },
+    "en": {
+      "title": "City Skyline · Sunset Dusk",
+      "desc": "Climbing to the rooftop at dusk, watching the sun sink slowly below the skyline in golden rays.",
+      "date": "1st Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (1) - 副本.JPG",
+    "zh": {
+      "title": "清晨的第一杯咖啡",
+      "desc": "研磨、冲泡，浓郁的咖啡香气弥漫了整个房间。拉开窗帘，美好的一天从现在开始。",
+      "date": "第一学年"
+    },
+    "en": {
+      "title": "First Cup of Coffee",
+      "desc": "Grinding and brewing, rich aroma fills the air. Drawing curtains back, a wonderful day begins.",
+      "date": "1st Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (2) - 副本.JPG",
+    "zh": {
+      "title": "雨后彩虹 · 幸运如你",
+      "desc": "骤雨初晴，窗外惊现一道宽广的彩虹。那一刻，内心充满了难以言喻的平静与喜悦。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Post-rain Rainbow",
+      "desc": "After a sudden downpour, a majestic rainbow spans across the sky. Serenity fills the heart.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (3) - 副本.JPG",
+    "zh": {
+      "title": "惬意午后 · 书香四溢",
+      "desc": "靠在阳台的摇椅上，手捧一本闲书，在茶香与温暖日光中虚度一个完美的下午。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Cozy Afternoon Reading",
+      "desc": "Reclining in the balcony chair with an interesting book, enjoying tea in the warm sunshine.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (4) - 副本.JPG",
+    "zh": {
+      "title": "海风吹拂 · 蔚蓝海岸",
+      "desc": "赤脚踩在松软的沙滩上，浪花轻轻拍打着脚踝。蔚蓝的大海无限广阔，令人心旷神怡。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Ocean Breeze · Azure Coast",
+      "desc": "Walking barefoot on soft sand, waves gently brushing ankles. The azure ocean heals everything.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (5) - 副本.JPG",
+    "zh": {
+      "title": "人间烟火 · 厨房交响",
+      "desc": "周末亲自动手，煎炒烹炸。厨房里弥漫着诱人的香气，用一道道美食犒劳疲惫的自己。",
+      "date": "第二学年"
+    },
+    "en": {
+      "title": "Kitchen Symphony · Homemade Food",
+      "desc": "Cooking up a storm on the weekend. The aroma of homemade food rewards a week of hard work.",
+      "date": "2nd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (6) - 副本.JPG",
+    "zh": {
+      "title": "落叶金秋 · 街头漫步",
+      "desc": "落叶铺满了古老街巷的石板路，踩上去发出酥脆的声音。漫步其中，享受秋日静美。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Ginkgo Streets in Autumn",
+      "desc": "Fallen leaves carpet the stone alleyways. Strolling through the cool, calm autumn air.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (7) - 副本.JPG",
+    "zh": {
+      "title": "露营之夜 · 篝火熊熊",
+      "desc": "和朋友们在山顶安营扎寨，围着篝火畅谈人生。抬头望去，是漫天闪烁的璀璨繁星。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Camping Night under Stars",
+      "desc": "Setting camp on the mountain top, chatting around a warm bonfire under the starlit sky.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (8) - 副本.JPG",
+    "zh": {
+      "title": "深夜食堂 · 温暖慰藉",
+      "desc": "深夜推开路边小酒馆的木门，一碗热气腾腾的拉面，瞬间驱散了冬夜里的所有寒冷。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Late-night Diner Ramen",
+      "desc": "Pushing open the tavern door on a freezing night; a steaming bowl of ramen warms the soul.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (9) - 副本.JPG",
+    "zh": {
+      "title": "猫咪暖阳 · 萌宠治愈",
+      "desc": "路边偶遇一只在阳光下伸懒腰的大橘猫。软绵绵地蹭着我的掌心，瞬间被彻底治愈。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Warm Cat under Sun",
+      "desc": "Meeting a chubby ginger cat stretching under the sun. It nuzzles my palm, healing my soul.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (10) - 副本.JPG",
+    "zh": {
+      "title": "骑行穿梭 · 追风少年",
+      "desc": "骑上单车在环湖公路上自由飞驰。迎面而来的风，是关于自由、青春最好的诠释。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Cycling by the Lake",
+      "desc": "Riding freely along the lakeside highway. The wind brushing past is the best symbol of youth.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (11) - 副本.JPG",
+    "zh": {
+      "title": "冰雪奇缘 · 银装素裹",
+      "desc": "冬天的第一场大雪将天地装点成一片银白。在雪地上踩下一串串脚印，清爽纯洁。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Snowy Wonderland",
+      "desc": "The first heavy snow of winter blankets the world in white. Stepping on fresh, crisp snow.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (12) - 副本.JPG",
+    "zh": {
+      "title": "音乐节狂欢 · 现场律动",
+      "desc": "站在人潮汹涌的摇滚音乐节现场，跟随强烈的贝斯声尽情跃动。这一刻，只有音乐与快乐。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Music Festival Live",
+      "desc": "Standing in the roaring crowd of a rock music festival, jumping to the bass. Pure ecstasy.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (13) - 副本.JPG",
+    "zh": {
+      "title": "画展漫步 · 艺术熏陶",
+      "desc": "漫步在静谧的美术馆展厅中，在一幅幅色彩斑斓的油画前驻足，寻找灵魂的共鸣。",
+      "date": "第三学年"
+    },
+    "en": {
+      "title": "Art Gallery Walk",
+      "desc": "Wandering through the quiet art gallery, stopping before oil paintings to seek resonance.",
+      "date": "3rd Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (14) - 副本.JPG",
+    "zh": {
+      "title": "古镇夜色 · 桨声灯影",
+      "desc": "古镇水乡，青砖黛瓦。大红灯笼在夜色中亮起，倒映在古老的小河中，宁静祥和。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Water Town at Night",
+      "desc": "Red lanterns lit in the ancient water town, casting warm reflections on the peaceful canal.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (15) - 副本.JPG",
+    "zh": {
+      "title": "跨年倒计时 · 烟花璀璨",
+      "desc": "在人潮人海的广场上，伴随零点钟声响起，璀璨的烟花腾空而起。新的一年，万事胜意。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "New Year Fireworks",
+      "desc": "Standing in the crowd as the midnight bell tolls, fireworks paint the sky. Happy New Year!",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (16) - 副本.JPG",
+    "zh": {
+      "title": "老街旧书店 · 淘书时光",
+      "desc": "挤进不起眼的老街书店，指尖滑过泛黄的旧书页，在时光流转中淘到一份绝版的快乐。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Old Street Bookstore",
+      "desc": "Squeezing into a vintage bookstore, running fingers along yellowed pages to find hidden gems.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (17) - 副本.JPG",
+    "zh": {
+      "title": "毕业旅行 · 远方的风",
+      "desc": "和好友一拍即合的毕业旅行。走过的山川大河，都将成为我们记忆库里最耀眼的存在。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Graduation Road Trip",
+      "desc": "A spontaneous road trip with friends. The majestic mountains and rivers are treasures in our hearts.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (18) - 副本.JPG",
+    "zh": {
+      "title": "毕业聚餐 · 不诉离别",
+      "desc": "毕业聚会的饭桌上，大家推杯换盏。说好不哭，但眼眶里闪动的，全是滚烫的青春。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Graduation Farewell Party",
+      "desc": "Toast after toast at the graduation banquet. We promised not to cry, yet tears of youth flow.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (19) - 副本.JPG",
+    "zh": {
+      "title": "漫天飞舞的泡泡",
+      "desc": "午后广场上，小孩子们吹出的漫天泡泡在折射出七彩的光芒。那一刻，仿佛回到了童年。",
+      "date": "第四学年"
+    },
+    "en": {
+      "title": "Dancing Bubbles in Sun",
+      "desc": "Countless colorful soap bubbles dancing in the sun at the plaza, bringing back childhood memories.",
+      "date": "4th Academic Year"
+    }
+  },
+  {
+    "filename": "jiali1 (20) - 副本.JPG",
+    "zh": {
+      "title": "火车站站台 · 踏上新程",
+      "desc": "拉着厚重的行李箱站在人头攒动的站台上。离别的钟声响起，我们终将奔向不同的远方。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "Railway Station Platform",
+      "desc": "Holding suitcases on the busy platform. Farewell bell rings; we embark on different journeys.",
+      "date": "Graduation & Beyond"
+    }
+  },
+  {
+    "filename": "jiali1 (21) - 副本.JPG",
+    "zh": {
+      "title": "新居入伙 · 满怀憧憬",
+      "desc": "在工作的城市租下了属于自己的第一个小空间。亲手组装桌椅，开启新的人生的篇章。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "My First Rented Apartment",
+      "desc": "Renting my own cozy space in the new city. Building furniture by hand to start a new chapter.",
+      "date": "Graduation & Beyond"
+    }
+  },
+  {
+    "filename": "jiali1 (22) - 副本.JPG",
+    "zh": {
+      "title": "地铁通勤 · 城市脉搏",
+      "desc": "早高峰挤在地铁人流中，耳边是列车轰鸣。虽然步履匆匆，但心中依然有光、有方向。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "Subway Rush Hour",
+      "desc": "Squeezing into the subway during morning peak, train roaring. Stepping fast with a clear goal.",
+      "date": "Graduation & Beyond"
+    }
+  },
+  {
+    "filename": "jiali1 (23) - 副本.JPG",
+    "zh": {
+      "title": "第一份薪水 · 分享喜悦",
+      "desc": "拿到人生第一份正式工资，激动地挑了一份礼物寄给父母。这是独立与成长的第一步。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "First Salary Gift",
+      "desc": "Receiving my first official salary, buying gifts for my parents. A milestone of independence.",
+      "date": "Graduation & Beyond"
+    }
+  },
+  {
+    "filename": "jiali1 (24) - 副本.JPG",
+    "zh": {
+      "title": "格子间里的夕阳",
+      "desc": "下班前抬头望去，夕阳的余晖透过写字楼的落地窗，温柔地亲吻着忙碌的键盘与书桌。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "Sunset in the Office",
+      "desc": "Looking up before leaving work; the golden setting sun kisses the busy keyboards and desks.",
+      "date": "Graduation & Beyond"
+    }
+  },
+  {
+    "filename": "jiali1 (25) - 副本.JPG",
+    "zh": {
+      "title": "重聚烧烤摊 · 友情无价",
+      "desc": "周末跟在同城奋斗的老友们重聚在烟熏火燎的烧烤摊前，大口撸串，仿佛我们从未毕业。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "Reunion BBQ Stand",
+      "desc": "Gathering with college friends at a smoky BBQ stall on weekends. Laughing like we never left.",
+      "date": "Graduation & Beyond"
+    }
+  },
+  {
+    "filename": "jiali1 (26) - 副本.JPG",
+    "zh": {
+      "title": "星空璀璨 · 未来可期",
+      "desc": "夜深人静，望着窗外无垠的星空。前方的路或许漫长，但只要心怀热爱，终能抵达彼岸。",
+      "date": "毕业起航"
+    },
+    "en": {
+      "title": "Starry Night · Boundless Future",
+      "desc": "Looking at the starry sky in the quiet night. The road ahead is long, but love will guide us.",
+      "date": "Graduation & Beyond"
+    }
+  }
+]
