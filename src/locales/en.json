@@ -3,24 +3,24 @@
     "backHome": "Back to Home",
     "close": "Close",
     "clickZoom": "Click to Zoom",
-    "galleryTitle": "Memory Gallery"
+    "galleryTitle": "Gallery"
   },
   "home": {
     "title": "Bear Gallery",
-    "subtitle": "Time Gramophone · Youth Album",
-    "description": "Welcome to Bear Gallery! This place records the trajectory of four full years of youth. We have divided it into two chapters, please select the section you would like to browse:",
-    "btnSeeking": "Four Years of Seeking",
-    "btnLife": "Four Years of Life"
+    "subtitle": "Time Gramophone",
+    "description": "Welcome to Bear Gallery!",
+    "btnSeeking": "College Life & Memories",
+    "btnLife": "earthly Life & Memories"
   },
   "seeking": {
-    "title": "Four Years of Seeking",
-    "subtitle": "Four Years of Academic Exploration",
+    "title": "College Life & Memories",
+    "subtitle": "College Life",
     "description": "\"The road ahead is long and has no ending, yet I will seek with my will unbending.\" This records the continuous exploration and pursuit in academics, technology, and personal growth during the four years of university. Every night spent under the lamp and every bottleneck broken through are the most shining footprints on the road of seeking.",
-    "gallerySection": "Memory Gallery · Moments of Seeking"
+    "gallerySection": "Memory Gallery"
   },
   "life": {
-    "title": "Four Years of Life",
-    "subtitle": "Four Years of Life & Memories",
+    "title": "earthly Life & Memories",
+    "subtitle": "earthly Life & Memories",
     "description": "\"The worldly atmosphere of life is what heals the hearts of ordinary people.\" This carries the warmest bits of life, sincere friendship, and laughter of youth in the past four years. The street corners walked, the scenery seen, and the food shared weave together this irreplaceable and precious time.",
     "gallerySection": "Memory Gallery · Worldly Life"
   }
